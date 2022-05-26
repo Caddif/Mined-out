@@ -1,4 +1,4 @@
-### Mined-out
+# Mined-out
 
 ## Table of contents
 * [Overview](#overview)
@@ -13,10 +13,10 @@ This project was a final assignment, after 3rd semester of C++ computer programm
 * SFML 
 
 ## Description
-# Gameplay
+### Gameplay
 Aim of the game is to get to the other side of a minefield and obtain collectables if there are any. It has three levels: first - with no collectables, second and third - with two collectables each. 
 
-# Classes
+### Classes
 * Game - By far the most broad class, responsibler for gale logic and window rendering.
 * Player - Contains information about player.
 * Entity - Class drawing squares.
@@ -24,7 +24,7 @@ Aim of the game is to get to the other side of a minefield and obtain collectabl
 * TextHandler - Responsible for handling text changing on the screen.
 * TextureInitializer - As name suggest initializes textures.
 
-# Preview
+### Preview
 ![1](https://user-images.githubusercontent.com/72463980/170593768-6f408745-072a-44ce-8d1f-a379d7504fa8.png)
 ![2](https://user-images.githubusercontent.com/72463980/170593771-2291845f-fc82-44fd-b23b-06294cdabf55.png)
 ![3](https://user-images.githubusercontent.com/72463980/170593775-b469dfce-c728-475d-a1da-d8bdb2359cc7.png)
